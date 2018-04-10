@@ -1,4 +1,4 @@
 ---
 expectations:
 - binding: "*"
-  inspection: DeclaresAttribute:a
+  inspection: DeclaresTag:a
