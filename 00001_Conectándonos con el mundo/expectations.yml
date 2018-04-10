@@ -2,3 +2,5 @@
 expectations:
 - binding: "*"
   inspection: DeclaresTag:a
+- binding: a
+  inspection: DeclaresAttribute:href
