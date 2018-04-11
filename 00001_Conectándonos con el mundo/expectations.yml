@@ -3,4 +3,4 @@ expectations:
 - binding: "*"
   inspection: DeclaresTag:a
 - binding: a
-  inspection: DeclaresAttribute:href
+  inspection: DeclaresAttribute:href="https://es.wikipedia.org"
