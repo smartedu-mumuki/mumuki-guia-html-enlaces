@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: audio
+  inspection: DeclaresAttribute:controls
+- binding: audio
+  inspection: DeclaresTag:source
+- binding: audio/source
+  inspection: DeclaresAttribute:src
+- binding: audio/source
+  inspection: DeclaresAttribute:type="audio/mp3"
