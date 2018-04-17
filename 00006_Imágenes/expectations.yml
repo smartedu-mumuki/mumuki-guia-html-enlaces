@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresTag:figure
+- binding: figure/img
+  inspection: DeclaresAttribute:src="mumuki_logo.jpg"
+- binding: figure/img
+  inspection: DeclaresAttribute:alt="logo de mumuki"
+- binding: figure
+  inspection: DeclaresTag:figcaption
