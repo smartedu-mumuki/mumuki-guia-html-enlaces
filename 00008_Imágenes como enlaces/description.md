@@ -5,6 +5,6 @@ Quizás alguna vez te pasó que al hacer clic sobre una imagen te llevo a otra p
 >
 > ```
 > <a href=”https://wikipedia.com”>
->   <img src=”logo-wikipedia” alt=”Logo de Wikipedia”>
+>   <img src=”https://es.wikipedia.org/static/images/project-logos/eswiki-2x.png” alt=”Logo de Wikipedia”>
 > </a>
 > ```

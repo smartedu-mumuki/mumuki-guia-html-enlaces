@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: a/img
+  inspection: DeclaresAttribute:src="https://es.wikipedia.org/static/images/project-logos/eswiki-2x.png"
+- binding: a
+  inspection: DeclaresAttribute:href="https://wikipedia.com"
