@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: img
+  inspection: DeclaresAttribute:width="30%"
+- binding: img
+  inspection: DeclaresAttribute:height="20%"
