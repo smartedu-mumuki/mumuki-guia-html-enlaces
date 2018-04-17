@@ -1,0 +1,14 @@
+---
+expectations:
+- binding: video
+  inspection: DeclaresAttribute:controls
+- binding: video
+  inspection: DeclaresTag:source
+- binding: video/source
+  inspection: DeclaresAttribute:src
+- binding: video/source
+  inspection: DeclaresAttribute:type="video/mp4"
+- binding: video
+  inspection: DeclaresAttribute:width
+- binding: video
+  inspection: DeclaresAttribute:height
