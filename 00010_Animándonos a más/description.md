@@ -3,8 +3,8 @@ Como ya vimos, podemos incluir imágenes y audio en nuestra página, ¿qué más
 > Escribí lo siguiente en el cuadro de la derecha:
 >
 > ```
-> <video width=”320” height=”240” controls>
->   <source src=”peli.mp4” type=”video/mp4”>
+> <video width="320" height="240" controls>
+>   <source src="peli.mp4" type="video/mp4">
 >   Tu navegador no soporta el elemento video.
 > </video>
 > ```
