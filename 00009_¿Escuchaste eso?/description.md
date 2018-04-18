@@ -3,7 +3,7 @@
 > Escribí lo siguiente en el recuadro de la derecha:
 >
 > ```
-><audio controls>
+> <audio controls>
 >   <source src="musiquita.mp3" type="audio/mp3">
 >   Tu navegador no soporta el elemento audio.
 > </audio>
