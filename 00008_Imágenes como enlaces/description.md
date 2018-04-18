@@ -4,7 +4,7 @@ Quizás alguna vez te pasó que al hacer clic sobre una imagen te llevo a otra p
 > Veamos si se entiende, escribi el siguiente código en el cuadro de la derecha:
 >
 > ```
-> <a href=”https://wikipedia.com”>
->   <img src=”https://es.wikipedia.org/static/images/project-logos/eswiki-2x.png” alt=”Logo de Wikipedia”>
+> <a href="https://wikipedia.com" target="_blank">
+>   <img src="https://es.wikipedia.org/static/images/project-logos/eswiki-2x.png” alt=”Logo de Wikipedia">
 > </a>
 > ```

@@ -6,3 +6,5 @@ expectations:
   inspection: DeclaresAttribute:href="https://wikipedia.com"
 - binding: a
   inspection: DeclaresTag:img
+- binding: a
+  inspection: DeclaresAttribute:target="_blank"
