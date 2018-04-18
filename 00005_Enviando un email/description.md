@@ -4,5 +4,5 @@ No, claro que no.
 > Fijate que pasa, escribí el siguiente código en el cuadro de la derecha y hacele clic al link. ¡Por favor no nos mandes ningún mail!
 >
 >```
-> <a href=mailto:no-reply@mumuki.io target="_blank"> ¡Mandanos un mail!</a>
+> <a href="mailto:no-reply@mumuki.io" target="_blank"> ¡Mandanos un mail!</a>
 >```
