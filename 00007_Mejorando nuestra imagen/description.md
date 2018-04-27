@@ -6,4 +6,4 @@ Por ejemplo:
 ```html
 <img src="https://mumuki.io/logo-alt-large.png" alt="Logo de mumuki" height="40px" width="40px">
 ```
-> ¡Ahora te toca a vos! Agregale a la imagen 30% de altura, y 20% de ancho.
+> ¡Ahora te toca a vos! Agregale a la imagen 20px de altura, y 400px de ancho.
