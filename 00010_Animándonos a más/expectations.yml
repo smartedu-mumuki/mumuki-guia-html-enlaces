@@ -5,7 +5,7 @@ expectations:
 - binding: video
   inspection: DeclaresTag:source
 - binding: video/source
-  inspection: DeclaresAttribute:src
+  inspection: DeclaresAttribute:src="http://techslides.com/demos/sample-videos/small.mp4"
 - binding: video/source
   inspection: DeclaresAttribute:type="video/mp4"
 - binding: video
