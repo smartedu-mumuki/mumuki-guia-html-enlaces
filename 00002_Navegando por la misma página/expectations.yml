@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: a
+  inspection: DeclaresAttribute:href="#ultimo_parrafo"
+- binding: "*"
+  inspection: DeclaresTag:a
