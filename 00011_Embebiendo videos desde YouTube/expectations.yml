@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresTag:iframe
+- binding: iframe
+  inspection: DeclaresAttribute:src="https://www.youtube.com/embed/vyk92EHo40s"
