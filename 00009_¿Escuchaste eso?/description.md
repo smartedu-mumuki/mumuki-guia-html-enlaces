@@ -4,7 +4,7 @@
 >
 > ```
 ><audio controls>
->   <source src="musiquita.mp3" type="audio/mp3">
+>   <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mp3">
 >   Tu navegador no soporta el elemento audio.
 > </audio>
 > ```
