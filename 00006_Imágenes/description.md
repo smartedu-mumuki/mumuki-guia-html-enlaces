@@ -4,7 +4,7 @@ Las imágenes son muy importantes a la hora de comunicar información, y ahora v
 
 > ```
 > <figure>
->   <img src=”mumuki_logo.jpg” alt=”logo de mumuki”>
+>   <img src="http://mumuki.io/logo-alt-large.png" alt="Logo de mumuki">
 >   <figcaption>Logo de mumuki</figcaption>
 > </figure>
 > ```
