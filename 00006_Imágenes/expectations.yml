@@ -3,7 +3,7 @@ expectations:
 - binding: "*"
   inspection: DeclaresTag:figure
 - binding: figure/img
-  inspection: DeclaresAttribute:href="https://mumuki.io/logo-alt-large.png"
+  inspection: DeclaresAttribute:src="https://mumuki.io/logo-alt-large.png"
 - binding: figure/img
   inspection: DeclaresAttribute:alt="Logo de mumuki"
 - binding: figure
