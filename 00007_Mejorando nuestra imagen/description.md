@@ -4,6 +4,6 @@ Existen 2 atributos del elemento `img` que nos permiten ajustar la altura y el a
 Por ejemplo: 
 
 ```html
-<img src="logo.jpg" alt="Logo de mumuki" height="40px" width="40px">
+<img src="http://mumuki.io/logo-alt-large.png" alt="Logo de mumuki" height="40px" width="40px">
 ```
 > ¡Ahora te toca a vos! Agregale a la imagen 30% de altura, y 20% de ancho.
