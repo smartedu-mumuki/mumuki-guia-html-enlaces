@@ -3,5 +3,5 @@ Cada vez que tocamos uno de los enlaces que creamos nos redirigé, usando la mis
 > Escribí el siguiente código en el cuadro de la derecha:
 >
 > ```
-<a href="https://wikipedia.org" target=”_blank”>Wikipedia </a>
+<a href="https://wikipedia.org" target="_blank">Wikipedia </a>
 ```
