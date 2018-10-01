@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: "*"
+- binding: html/body
   inspection: DeclaresTag:a
-- binding: a
+- binding: html/body/a
   inspection: DeclaresAttribute:href="https://es.wikipedia.org"
