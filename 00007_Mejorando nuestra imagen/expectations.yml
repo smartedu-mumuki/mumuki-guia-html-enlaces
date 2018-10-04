@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: img
+- binding: html/body/figure/img
   inspection: DeclaresAttribute:width="400px"
-- binding: img
+- binding: html/body/figure/img
   inspection: DeclaresAttribute:height="20px"

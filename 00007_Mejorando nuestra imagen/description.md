@@ -1,5 +1,5 @@
 ¿No te pareció que la imagen estaba un poco grande?
-Existen 2 atributos del elemento `img` que nos permiten ajustar la altura y el ancho, `height` y `width`.
+Existen 2 atributos del elemento `img` que nos permiten ajustar la altura y el ancho, `height` y `width` respectivamente.
 
 Por ejemplo: 
 
