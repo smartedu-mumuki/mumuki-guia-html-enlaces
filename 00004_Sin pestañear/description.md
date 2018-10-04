@@ -2,4 +2,4 @@ Cada vez que tocamos uno de los enlaces que creamos nos redirigé, usando la mis
 
 Agregando al tag `a` el atributo `target` con el valor `_blank`.
 
-> Agregá el atributo `target` al tag `a`, de manera tal que el enlace a Wikipedia se abra en una nueva pestaña.
+> Agregá el atributo `target` al tag `a`, de manera tal que el enlace a Mumuki se abra en una nueva pestaña.
