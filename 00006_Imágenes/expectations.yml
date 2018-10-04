@@ -1,10 +1,10 @@
 ---
 expectations:
-- binding: "*"
+- binding: html/body
   inspection: DeclaresTag:figure
-- binding: figure/img
+- binding: html/body/figure/img
   inspection: DeclaresAttribute:src="https://mumuki.io/logo-alt-large.png"
-- binding: figure/img
+- binding: html/body/figure/img
   inspection: DeclaresAttribute:alt="Logo de mumuki"
-- binding: figure
+- binding: html/body/figure
   inspection: DeclaresTag:figcaption
