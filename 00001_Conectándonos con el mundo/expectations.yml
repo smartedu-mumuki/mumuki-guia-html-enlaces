@@ -3,4 +3,4 @@ expectations:
 - binding: html/body
   inspection: DeclaresTag:a
 - binding: html/body/a
-  inspection: DeclaresAttribute:href="https://es.wikipedia.org"
+  inspection: DeclaresAttribute:href="https://mumuki.io/home">
