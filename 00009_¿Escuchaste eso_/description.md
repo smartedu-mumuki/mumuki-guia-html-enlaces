@@ -1,6 +1,6 @@
-¡Vamos a incluir un poco de música en nuestra página!
+Ya agregamos imagenes, ahora ¡vamos a incluir un poco de música en nuestra página!
 
-> Escribí lo siguiente en el recuadro de la derecha:
+> Escribí lo siguiente dentro de nuestro body:
 >
 > ```
 ><audio controls>
