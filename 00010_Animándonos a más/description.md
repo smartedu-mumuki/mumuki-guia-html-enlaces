@@ -1,6 +1,6 @@
 Como ya vimos, podemos incluir imágenes y audio en nuestra página, ¿qué más podemos hacer desde HTML? ¡incluir videos!
 
-> Escribí lo siguiente en el cuadro de la derecha:
+> Incluí esto en nuestro `body`:
 >
 > ```
 > <video width="320" height="240" controls>
@@ -8,3 +8,4 @@ Como ya vimos, podemos incluir imágenes y audio en nuestra página, ¿qué más
 >   Tu navegador no soporta el elemento video.
 > </video>
 > ```
+

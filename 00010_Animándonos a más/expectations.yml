@@ -1,14 +1,14 @@
 ---
 expectations:
-- binding: video
+- binding: html/body/video
   inspection: DeclaresAttribute:controls
-- binding: video
+- binding: html/body/video
   inspection: DeclaresTag:source
-- binding: video/source
+- binding: html/body/video/source
   inspection: DeclaresAttribute:src="http://techslides.com/demos/sample-videos/small.mp4"
-- binding: video/source
+- binding: html/body/video/source
   inspection: DeclaresAttribute:type="video/mp4"
-- binding: video
+- binding: html/body/video
   inspection: DeclaresAttribute:width
-- binding: video
+- binding: html/body/video
   inspection: DeclaresAttribute:height

@@ -1,6 +1,6 @@
 Ya agregamos imagenes, ahora ¡vamos a incluir un poco de música en nuestra página!
 
-> Escribí lo siguiente dentro de nuestro body:
+> Escribí lo siguiente dentro de nuestro `body`:
 >
 > ```
 ><audio controls>
