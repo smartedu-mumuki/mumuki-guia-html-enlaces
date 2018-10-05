@@ -1,1 +1,1 @@
-Recordá de que en un ejercicio previo de esta lección ya redirigiste a la _home_ de Mumuki. 
+Recordá de que en un ejercicio previo de esta lección ya redirigiste a la _home_ de Mumuki.

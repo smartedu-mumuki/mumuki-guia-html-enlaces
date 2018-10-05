@@ -10,3 +10,7 @@ expectations:
   inspection: DeclaresAttribute:target="_blank"
 - binding: html/body/a/img
   inspection: DeclaresAttribute:src="https://mumuki.io/logo-alt-large.png"
+- binding: html/body/a/img
+  inspection: DeclaresAttribute:width="400px"
+- binding: html/body/a/img
+  inspection: Not:DeclaresAttribute:height
