@@ -6,6 +6,6 @@ Generalmente es muy desaconsejado, pero en el caso de embeber un video de YouTub
 > Escribí lo siguiente: 
 >
 > ```
-> <iframe width="854" height="480" src="https://www.youtube.com/watch?v=4JIsiNKiqkA"></iframe>
+> <iframe width="854" height="480" src="https://www.youtube.com/embed/4JIsiNKiqkA"></iframe>
 > ```
 > ¿Dónde? Dentro del `body` como venís haciendo.
