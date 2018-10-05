@@ -1,10 +1,5 @@
-Quizás alguna vez te pasó que al hacer clic sobre una imagen te llevo a otra página, entonces… ¿una imagen también puede funcionar como enlace?
-<p>Bueno, no. No precisamente, más bien, cualquier elemento puede funcionar como enlace. Para lograr esto, necesitamos anidar nuestro elemento dentro de un elemento `a`. El elemento `a` es el que nos proporciona el enlace.
+Quizás alguna vez te pasó que al hacer click sobre una imagen te llevo a otra página, entonces… ¿una imagen también puede funcionar como enlace?
 
-> Veamos si se entiende, escribi el siguiente código en el cuadro de la derecha:
->
-> ```
-> <a href="https://wikipedia.com" target="_blank">
->   <img src="https://es.wikipedia.org/static/images/project-logos/eswiki-2x.png" alt="Logo de Wikipedia">
-> </a>
-> ```
+Cualquier elemento puede funcionar como enlace. Para lograr esto, necesitamos anidar nuestro elemento dentro de un elemento `a`. Recordemos que el elemento `a` es el que nos proporciona el enlace.
+
+> Veamos si se entiende, ahora tu `img` debería estar dentro de un tag `a`, que nos redirija a la _home_ de Mumuki y que se abra en una pestaña nueva.

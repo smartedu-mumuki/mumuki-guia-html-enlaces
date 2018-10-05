@@ -1,10 +1,12 @@
 ---
 expectations:
-- binding: a/img
-  inspection: DeclaresAttribute:src="https://es.wikipedia.org/static/images/project-logos/eswiki-2x.png"
-- binding: a
-  inspection: DeclaresAttribute:href="https://wikipedia.com"
-- binding: a
+- binding: html/body
+  inspection: DeclaresTag:a
+- binding: html/body/a
   inspection: DeclaresTag:img
-- binding: a
+- binding: html/body/a
+  inspection: DeclaresAttribute:href="https://mumuki.io/home"
+- binding: html/body/a
   inspection: DeclaresAttribute:target="_blank"
+- binding: html/body/a/img
+  inspection: DeclaresAttribute:src="https://mumuki.io/logo-alt-large.png"
