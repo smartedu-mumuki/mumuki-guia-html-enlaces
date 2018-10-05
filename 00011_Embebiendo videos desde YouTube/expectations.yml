@@ -3,4 +3,4 @@ expectations:
 - binding: html/body
   inspection: DeclaresTag:iframe
 - binding: html/body/iframe
-  inspection: DeclaresAttribute:src="https://www.youtube.com/embed/jiLKeZISFx0"
+  inspection: DeclaresAttribute:src="https://www.youtube.com/watch?v=4JIsiNKiqkA"
