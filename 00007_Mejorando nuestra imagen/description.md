@@ -1,5 +1,6 @@
-¿No te pareció que la imagen estaba un poco grande?
-Existen 2 atributos del elemento `img` que nos permiten ajustar la altura y el ancho, `height` y `width` respectivamente.
+¿No te pareció que la imagen estaba un poco grande? :sweat_smile:
+
+Para que podamos personalizar las medidas de las imágenes, tenemos dos atributos del elemento `img` que nos permiten ajustar la **altura** y el **ancho**: `height` y `width` respectivamente.
 
 Por ejemplo: 
 
