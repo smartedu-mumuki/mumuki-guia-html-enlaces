@@ -1,4 +1,4 @@
-Ya agregamos imagenes, ahora ¡vamos a incluir un poco de música en nuestra página!
+Ya agregamos imágenes, ahora ¡vamos a incluir un poco de música en nuestra página! :microphone: :guitar:
 
 > Escribí lo siguiente dentro de nuestro `body`:
 >
