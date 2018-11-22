@@ -9,9 +9,9 @@ manual_evaluation: false
 choices:
 - value: En un enlace absoluto la URL puede estar incompleta.
   checked: false
-- value: El enlace que apunta a /series/estreno/2018 es un enlace relativo.
+- value: El enlace que apunta a `/series/estreno/2018` es un enlace relativo.
   checked: true
-- value: El enlace que apunta a https://netfix.io/series/estreno/2018 es un enlace
+- value: El enlace que apunta a `https://netfix.io/series/estreno/2018` es un enlace
     relativo.
   checked: false
 name: Absolutamente relativo
