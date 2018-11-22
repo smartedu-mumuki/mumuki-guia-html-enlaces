@@ -1,5 +1,7 @@
 Quizás alguna vez te pasó que al hacer click sobre una imagen te llevó a otra página, entonces… ¿una imagen también puede funcionar como enlace? :scream:
 
-¡Cualquier elemento puede funcionar como enlace! Para lograr esto, necesitamos anidar nuestro elemento dentro de un elemento `a`. Recordemos que el elemento `a` es el que nos proporciona el enlace.
+¡Cualquier elemento puede funcionar como enlace! Para lograr esto, necesitamos anidarlo dentro de un elemento `a`, que es el que nos proporciona el enlace. 
 
-> Veamos si se entiende, ahora tu `img` debería estar dentro de un tag `a`, que nos redirija a la _home_ de Mumuki y que se abra en una pestaña nueva. De paso, borra el atributo `height` así la imagen queda linda.
+Entonces, si queremos que una imagen funcione como un link a una página, el elemento `img` debería estar dentro del tag `a`.
+
+> Veamos si se entiende, hacé que la imagen que se encuentra en el editor redirija a la _home_ de Mumuki, abriéndose en una pestaña nueva. De paso, borra el atributo `height` así la imagen queda linda. :wink:
