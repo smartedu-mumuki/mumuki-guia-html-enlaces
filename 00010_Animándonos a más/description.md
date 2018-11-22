@@ -1,4 +1,4 @@
-Como ya vimos, podemos incluir imágenes y audio en nuestra página, ¿qué más podemos hacer desde HTML? ¡incluir videos!
+Como ya vimos, podemos incluir imágenes y audio en nuestra página, ¿qué más podemos hacer desde HTML? ¡Incluir videos! :clapper:
 
 > Incluí esto en nuestro `body`:
 >
