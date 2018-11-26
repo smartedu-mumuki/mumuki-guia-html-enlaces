@@ -1,4 +1,4 @@
-En Netfix, nuestra plataforma amiga :stuck_out_tongue_closed_eyes:, podemos buscar y ver películas y series, visitándola desde `https://netfix.io`. Entonces, si quisiéramos un enlace al listado de películas de terror en NetFix podríamos hacer:
+En NetFix, nuestra plataforma amiga :stuck_out_tongue_closed_eyes:, podemos buscar y ver películas y series, visitándola desde `https://netfix.io`. Entonces, si quisiéramos un enlace al listado de películas de terror en NetFix podríamos hacer:
 
 ``` html
 <a href="https://netfix.io/peliculas/genero/terror">Pelis de terror</a>
@@ -14,6 +14,6 @@ El enlace relativo al listado de películas de terror sería:
 
 ¿Viste eso :eyes:? La parte de la URL `https://netfix.io` no la escribimos. Eso es porque el enlace relativo apunta a una URL incompleta.
 
-Pero, ¡claro!, como le falta información, es ultra necesario conocer la URL de origen para que el enlace relativo sepa a donde dirigirnos. En este caso, para que funcione debemos estar en `https://netfix.com`, así el navegador saca por contexto cómo completar la URL. :wink:
+Pero, ¡claro!, como le falta información, es ultra necesario conocer la URL de origen para que el enlace relativo sepa a donde dirigirnos. En este caso, para que funcione debemos estar en `https://netfix.io`, así el navegador saca por contexto cómo completar la URL. :wink:
 
 > Veamos si se entendió, seleccioná todas las afirmaciones correctas.
