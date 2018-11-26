@@ -8,5 +8,5 @@ Comenzaremos con el tag `a`, el cual se utiliza habitualmente para definir un en
 > <a href="https://mumuki.io/home">Mumuki</a>
 >```
 >
-> Luego, hacé click en el enlace. 
+> Luego, hacé click en él. 
 
