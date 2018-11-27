@@ -1,0 +1,14 @@
+---
+expectations:
+- binding: html/body
+  inspection: DeclaresTag:ul
+- binding: html/body/ul
+  inspection: DeclaresTag:li
+- binding: html/body/ul/li/a
+  inspection: DeclaresAttribute:href="#tamanio"
+- binding: html/body/ul/li/a
+  inspection: DeclaresAttribute:href="#forma"
+- binding: html/body/ul/li/a
+  inspection: DeclaresAttribute:href="#color"
+- binding: html/body/ul/li/a
+  inspection: DeclaresAttribute:href="#estructura_cuantica"
