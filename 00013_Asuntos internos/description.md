@@ -24,4 +24,3 @@ No. También vamos a tener que decirle al elemento `a` que va a dirigirse a un _
 >  <li><a href="#estructura_cuantica">Estructura cuántica</a></li>
 ></ul>
 >```
-> Hacé click en los enlaces para ver qué pasa. :eyes:
