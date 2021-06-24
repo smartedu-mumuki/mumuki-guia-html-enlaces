@@ -1,8 +1,0 @@
----
-expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body
-  inspection: DeclaresTag:a
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body/a
-  inspection: DeclaresAttribute:href="https://mumuki.io/home"
