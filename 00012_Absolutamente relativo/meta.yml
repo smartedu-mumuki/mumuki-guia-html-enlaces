@@ -1,17 +1,22 @@
 ---
+locale: es
 tags: []
 layout: input_bottom
 editor: multiple_choice
 type: problem
 extra_visible: false
 language: text
+teacher_info: ''
 manual_evaluation: false
 choices:
-- value: En un enlace absoluto la URL puede estar incompleta.
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: En un enlace absoluto la URL puede estar incompleta.
   checked: false
-- value: El enlace que apunta a `/series/estreno/2018` es un enlace relativo.
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El enlace que apunta a `/series/estreno/2018` es un enlace relativo.
   checked: true
-- value: El enlace que apunta a `https://netfix.io/series/estreno/2018` es un enlace
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El enlace que apunta a `https://netfix.io/series/estreno/2018` es un enlace
     relativo.
   checked: false
 name: Absolutamente relativo

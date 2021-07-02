@@ -1,14 +1,20 @@
 ---
 expectations:
-- binding: html/body/video
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/video
   inspection: DeclaresAttribute:controls
-- binding: html/body/video
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/video
   inspection: DeclaresTag:source
-- binding: html/body/video/source
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/video/source
   inspection: DeclaresAttribute:src="http://techslides.com/demos/sample-videos/small.mp4"
-- binding: html/body/video/source
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/video/source
   inspection: DeclaresAttribute:type="video/mp4"
-- binding: html/body/video
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/video
   inspection: DeclaresAttribute:width
-- binding: html/body/video
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/video
   inspection: DeclaresAttribute:height

@@ -1,12 +1,17 @@
 ---
 expectations:
-- binding: html/body/audio
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/audio
   inspection: DeclaresAttribute:controls
-- binding: html/body/audio
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/audio
   inspection: DeclaresTag:source
-- binding: html/body/audio/source
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/audio/source
   inspection: DeclaresAttribute:src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
-- binding: html/body/audio/source
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/audio/source
   inspection: DeclaresAttribute:type="audio/mp3"
-- binding: html/body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body
   inspection: DeclaresTag:audio

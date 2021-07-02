@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: html/body/a
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/a
   inspection: DeclaresAttribute:target="_blank"

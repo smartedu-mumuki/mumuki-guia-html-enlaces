@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: html/body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body
   inspection: DeclaresTag:iframe
-- binding: html/body/iframe
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/iframe
   inspection: DeclaresAttribute:src="https://www.youtube.com/embed/4JIsiNKiqkA"

@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: a
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: a
   inspection: DeclaresAttribute:target="_blank"
